@@ -1,9 +1,9 @@
 {
-    "name": "BOBIZ - MD",
-    "description": "BOBIZMD  - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://telegra.ph/file/201b5c02be1e336a29c60.jpg",
+    "name": "Hicham - MD",
+    "description": "Hicham  - Makes it easy and fun to use Whatsapp.",
+    "logo": "https://telegra.ph/file/cad7038fe82e47f79c609.jpg",
     "keywords": ["whatsapp", "userbot", "bobiz", "bot", "ai" , "MD" ],
-    "repository": "https://github.com/bobizbotmd/BOBIZ-MD",
+    "repository": "https://github.com/stteye/Bot-MD",
     "website":   "",
     "success_url": "",
     "stack": "container",
@@ -21,7 +21,7 @@
       },
            "URL_1LINK": {
             "description": "",
-            "value": "http://instagram.com/noureddine_ouafy" ,
+            "value": "http://instagram.com/maraytin" ,
             "required": true
       },
      "URL_2NAME": {
@@ -31,7 +31,7 @@
       },
        "URL_2LINK": {
             "description": "",
-            "value": "https://github.com/bobizbotmd/BOBIZ-MD" ,
+            "value": "https://github.com/stteye/Bot" ,
             "required": true
       },
       
@@ -42,7 +42,7 @@
       },
       "ALIVE_LOGO": {
             "description": "add direct image url",
-            "value": "https://telegra.ph/file/201b5c02be1e336a29c60.jpg" ,
+            "value": "https://telegra.ph/file/cad7038fe82e47f79c609.jpg" ,
             "required": true
       },
      
@@ -78,7 +78,7 @@
       },
           "STIC_WM": {
             "description": "حقوق الملصق",
-            "value": "BOBIZ-MD" ,
+            "value": "Hicham-Bot" ,
             "required": true
       }
          
