@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Stteye 
-Stteye
-/
-Bot
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Bot/commands.js /
-@Stteye
-Stteye Add files via upload
-Latest commit b4febc9 31 minutes ago
- History
- 1 contributor
-607 lines (510 sloc)  42.2 KB
-
 const {
 	default: makeWASocket,
 	useSingleFileAuthState,
@@ -634,4 +605,3 @@ console.log( isError )
 
 module.exports = cmd
 	
-
