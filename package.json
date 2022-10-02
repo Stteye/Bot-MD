@@ -1,5 +1,5 @@
 {
-  "name": "Bobiz-MD",
+  "name": "Hicham",
   "version": "1.0.0",
   "description": "undefined",
   "main": "/bobiz/index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bobizbotmd"
+    "url": "git+https://github.com/stteye"
   },
   "author": "unknown",
   "developer": "unknown",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/bobizbotmd"
+    "url": "https://github.com/stteye"
   },
-  "homepage": "https://github.com/bobizbotmd",
+  "homepage": "https://github.com/stteye",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
     "simple-git": ">=3.5.0",
